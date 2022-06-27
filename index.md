@@ -16,5 +16,5 @@
 *   [个人博客](https://blog.randomench.top/)
 
 # 游戏列表
-*   [PrayGame](https://https://game.randomench.top//PrayGame/).
-*   [TrapIsland](https://https://game.randomench.top//TrapIsland/).
+*   [PrayGame](https://game.randomench.top//PrayGame/).
+*   [TrapIsland](https://game.randomench.top//TrapIsland/).
